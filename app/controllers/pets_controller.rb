@@ -51,7 +51,7 @@ end
     erb :"/pets/edit"
   end
 
-=======
+
 
     redirect to "pets/#{@pet.id}"
   end
